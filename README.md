@@ -7,9 +7,9 @@ O problema foi abordado de 2 maneiras distintas
 
 • 1 - Solução utilizada na empresa, simples e objetiva
 
-      :white_check_mark: Média Móvel e Visualização
+      :o: Média Móvel e Visualização
 
 • 2 - Solução utilizando de ML
 
-      :white_check_mark Versão tcc        
-      :white_check_mark Versão atualizada
+      :heavy_check_mark: Versão tcc        
+      :o: Versão atualizada
